@@ -16,6 +16,7 @@
 		AC1A84A821B3AB6300C42BFC /* TestIbmUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1A84A721B3AB6300C42BFC /* TestIbmUITests.swift */; };
 		ACC96EE821B802C300201538 /* UIButtonAnimated.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC96EE721B802C300201538 /* UIButtonAnimated.swift */; };
 		ACC96EEA21B8110B00201538 /* SCScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC96EE921B8110B00201538 /* SCScene.swift */; };
+		ACF6BA3421BAA7E600AC414C /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF6BA3321BAA7E600AC414C /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		AC1A84A921B3AB6300C42BFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ACC96EE721B802C300201538 /* UIButtonAnimated.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = UIButtonAnimated.swift; path = ../UIButtonAnimated.swift; sourceTree = "<group>"; };
 		ACC96EE921B8110B00201538 /* SCScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCScene.swift; sourceTree = "<group>"; };
+		ACF6BA3321BAA7E600AC414C /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				ACC96EE721B802C300201538 /* UIButtonAnimated.swift */,
+				ACF6BA3321BAA7E600AC414C /* Model.swift */,
 				ACC96EE921B8110B00201538 /* SCScene.swift */,
 				AC1A848721B3AB6100C42BFC /* AppDelegate.swift */,
 				AC1A848921B3AB6100C42BFC /* ViewController.swift */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACF6BA3421BAA7E600AC414C /* Model.swift in Sources */,
 				ACC96EEA21B8110B00201538 /* SCScene.swift in Sources */,
 				AC1A848A21B3AB6100C42BFC /* ViewController.swift in Sources */,
 				AC1A848821B3AB6100C42BFC /* AppDelegate.swift in Sources */,
